@@ -12,7 +12,8 @@
 
 ---
 
-🎓 Final-year CS student @ AVCOE, Sangamner — CGPA: **8.2**  
+🎓 Computer Engineering Graduate – Class of **2024**, AVCOE, Sangamner  
+📊 CGPA: **7.48**  
 🛠️ Skilled in full-stack development & AI integrations using GPT-4  
 💡 Passionate about smart automation, GPT tools & performance-driven frontend  
 📧 Email: **sandeshtayade350@gmail.com**  
@@ -22,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,flask,mongodb,mysql,git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,python,flask,mongodb,mysql,git,github,firebase,vscode" />
 </p>
 
 ---
@@ -54,7 +55,7 @@
 ---
 
 **Bachelor of Engineering (B.E.) – Computer Science**  
-AVCOE, Sangamner — CGPA: **8.2** | Expected: 2024  
+📍 AVCOE, Sangamner — **CGPA: 7.48** | **Graduated: 2024**  
 
 **HSC – Moolji Jaitha College, Jalgaon** — 72.92%  
 **SSC – St. Lawrence High School, Jalgaon** — 71.40%
