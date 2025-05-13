@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sandesh Tayade </h1>
-<h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **sandeshtayade350@gmail.com**
-
-<p align="left">
+<!-- Banner / GIF (You can replace this link with any cool coding GIF) -->
+<p align="center">
+  <img src="https://github.com/sandeshtayade/sandeshtayade/assets/your-gif-id-here.gif" alt="Frontend Developer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush8378&show_icons=true&locale=en&layout=compact" alt="Sandesh0313" /></p>
+<h1 align="center">Hi 👋, I'm Sandesh Tayade</h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Code ♥ Design</h3>
+
+---
+
+### 🧑‍💻 About Me
+
+- 💻 I’m a passionate **Frontend Developer** who crafts pixel-perfect websites.
+- 🎨 I combine **clean code** with **beautiful design**.
+- 🚀 Currently exploring **React**, **Tailwind CSS**, and **Framer Motion**.
+- 📧 Reach me at **sandeshtayade350@gmail.com**
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:sandeshtayade350@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandeshtayade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sandeshtayade">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 💼 **Portfolio Website** | Personal responsive portfolio to showcase projects and skills | `React`, `Framer Motion`, `Tailwind` |
+| 🎨 **UI Components Library** | Reusable components built for speed and style | `HTML`, `CSS`, `JS`, `Tailwind CSS` |
+| 🧠 **DevQuiz App** | A fast and fun quiz app for developers | `React`, `TypeScript`, `Styled Components` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshtayade&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeshtayade&theme=radical&hide_border=false" width="48%" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I can turn boring UIs into delightful user experiences — faster than your favorite CSS animation 🪄✨
+
+---
+
+_✨ Let's build the web — better, faster, and prettier._
+
