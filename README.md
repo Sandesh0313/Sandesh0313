@@ -1,72 +1,95 @@
-<!-- Animated Banner -->
+<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/39/e8/e139e88a76f8f3426b1442e7a8d4f9c4.gif" width="100%" alt="Frontend Developer Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandesh+Tayade;Frontend+Developer+%7C+AI+Tool+Builder;Crafting+Intelligent+Web+Experiences" alt="Typing SVG">
 </p>
 
-<h1 align="center">👋 Hi, I'm Sandesh Tayade</h1>
-<h3 align="center">Frontend Developer | AI Builder | UI/UX Perfectionist</h3>
+<h1 align="center">🚀 Sandesh Tayade</h1>
+<h3 align="center">Frontend Developer | AI Tool Builder | Cloud Learner</h3>
 
 ---
 
-### 🚀 About Me
-
-🎓 Final-year CS Engineering student from AVCOE (CGPA: 8.2)  
-💻 Building intelligent, beautiful, and scalable web apps  
-🧠 Skilled in JavaScript, React.js, Tailwind, Python, and OpenAI integrations  
-📈 Passionate about frontend development, clean UI/UX, and building AI tools  
-📬 Email: **sandeshtayade350@gmail.com**  
+## 🚀 About Me
 
 ---
 
-### 🧠 Skills & Tools
+🎓 Final-year CS student @ AVCOE, Sangamner — CGPA: **8.2**  
+🛠️ Skilled in full-stack development & AI integrations using GPT-4  
+💡 Passionate about smart automation, GPT tools & performance-driven frontend  
+📧 Email: **sandeshtayade350@gmail.com**  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,flask,mongodb,mysql,git,github,firebase,figma" />
-</p>
-
----
-
-### 💼 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔍 [AI Resume Evaluator](https://github.com/yourusername/ai-resume-evaluator) | GPT-4 powered tool that evaluates resumes and gives ATS score & suggestions | React, Node.js, OpenAI |
-| 🧠 [Prompt Gallery Generator](https://github.com/yourusername/prompt-gallery-generator) | Web app that generates and saves GPT-4 prompts | Tailwind CSS, Firebase, OpenAI |
-| 📊 [Stock Market Dashboard](https://github.com/yourusername/stock-analysis-dashboard) | Live stock data analysis with sentiment and buy/sell logic | Streamlit, yFinance, Plotly |
-| 🗂️ [Job Board Aggregator](https://github.com/yourusername/job-board-aggregator) | Scrapes jobs and recommends based on skills | Python, Flask, MongoDB |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,flask,mongodb,mysql,git,github,firebase,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🌟 Featured Projects
+
+---
+
+| 🛠️ Project | Description | Tech Stack | Link |
+|-----------|-------------|------------|------|
+| 🧾 **AI Resume Evaluator** | Upload resume → GPT-4 analysis → ATS score & suggestions | React, Node.js, OpenAI API | [GitHub](https://github.com/Sandesh0313/ai-resume-evaluator) |
+| 🧠 **Prompt Gallery Generator** | Generate + share AI prompts using GPT-4 | HTML, Tailwind, Firebase | [GitHub](https://github.com/Sandesh0313/prompt-gallery-generator) |
+| 📊 **Stock Market Dashboard** | Live stock data + AI summary generation | Streamlit, yFinance, Plotly | [GitHub](https://github.com/Sandesh0313/stock-analysis-dashboard) |
+| 🔍 **Job Board Aggregator** | Scrapes jobs from Indeed + role recommender | Python, Flask, MongoDB | [GitHub](https://github.com/Sandesh0313/job-board-aggregator) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh0313&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandesh0313&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🎓 Education
+
+---
+
+**Bachelor of Engineering (B.E.) – Computer Science**  
+AVCOE, Sangamner — CGPA: **8.2** | Expected: 2024  
+
+**HSC – Moolji Jaitha College, Jalgaon** — 72.92%  
+**SSC – St. Lawrence High School, Jalgaon** — 71.40%
+
+---
+
+## 💼 Internship
+
+---
+
+**Full Stack Developer Intern – QSpiders, Pune**  
+📅 Feb 2024 – Present  
+- Developed React.js interfaces & REST API integration  
+- Built prompt engineering tools with OpenAI APIs  
+- Practiced backend logic & modular code testing  
+- Collaborated via Git & Agile sprints  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:sandeshtayade350@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sandesh-tayade-5b3b2035b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Sandesh0313">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧩 Fun Fact
+## ✨ Quote
 
-> I turn user problems into clean UIs & working prototypes — faster than GPT can generate a joke 🤖⚡
-
----
-
-_✨ Building the future — one beautiful interface at a time._
-
+> “Code is how I think. AI is how I scale. Let’s build the future — one commit at a time.” 🧠⚡
